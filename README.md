@@ -1,10 +1,10 @@
 ## Password Strength Checker
 
-The Password Strength Checker is a JavaScript tool that allows users to check the strength of their passwords.
+The Password Strength Checker is a JavaScript tool to allows users to check the strength of their passwords.
 
 ## Live Preview
 ```bash
-https://mdashraful305.github.io/Password-Strength-Checker/
+https://cihenyen1.github.io/password-checker/
 ```
 ## Features
 
